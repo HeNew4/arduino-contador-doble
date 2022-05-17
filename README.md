@@ -9,7 +9,7 @@ Para este proyecto se nesesita:
 | Arduino     |                  | Pueder cual sea                  |
 | Display     | DA05             | fue echo para el DA05            |
 | Resistencia | 330 Ω            | En este caso se uso una de 330 Ω |
-| Cables      | 8 cables         | Se recomenda duponts             |
+| Cables      | 16 cables        | Se recomenda duponts             |
 | protoboard  | Cual sea         | :)                               |
 
 ---
